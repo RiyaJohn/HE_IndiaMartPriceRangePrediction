@@ -1,16 +1,10 @@
 [Indiamart-hackathon Submission](https://www.hackerearth.com/challenges/hackathon/indiamart-hackathon/) 
 
-Language Used: Python 3 on Google Colab
+#### Language Used: Python 3 on Google Colab
 
-Techniques involved:
-
-  Natural Language Processing
+#### Techniques involved:
+  Natural Language Processing and Statistics
   
-  Statistics
-  
-Python Libraries:
-  pandas
-  numpy
-  nltk
-  sklearn
+#### Python Libraries:
+  nltk, numpy, sklearn, pandas
   
