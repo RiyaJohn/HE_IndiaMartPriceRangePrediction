@@ -7,5 +7,5 @@
   Natural Language Processing and Statistics
   
 #### Python Libraries:
-  nltk, numpy, sklearn, pandas
+  nltk, numpy, sklearn, pandas, spaCy
   
